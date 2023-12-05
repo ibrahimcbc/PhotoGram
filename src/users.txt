@@ -1,0 +1,12 @@
+admin,ahmet,admin,admin,99,admin@gmail.com,admin,C:\Users\icebe\OneDrive\Belgeler\edited2.jpg
+kingragnar,ragnar,lothbrok,realking,33,,professional,src\\DefaultProfilPhoto.jpg
+amir06,behzat,c,ankara,45,gencler@gmail.com,free,src\\DefaultProfilPhoto.jpg
+mrrobot,Elliot,Alderson,abbbc,26,linuxlover@gmail.com,professional,C:\Users\icebe\OneDrive\Belgeler\edited2.jpg
+bestboss,Micheal,Scott,scott123,33,dundermifflin@gmail.com,hobbyist,src\\DefaultProfilPhoto.jpg
+sgoodman,Saul,Goodman,lawyerup,37,jimmy@gmail.com,hobbyist,src\\DefaultProfilPhoto.jpg
+lordsnow,Jon,Snow,maquin,29,winterfell@gmail.com,hobbyist,src\\DefaultProfilPhoto.jpg
+mdgreg,Gregory,House,notlupus,42,doctor@gmail.com,professional,src\\DefaultProfilPhoto.jpg
+moriarty,Jim,Moriarty,criminal,34,genius@gmail.com,professional,src\\DefaultProfilPhoto.jpg
+joeytrib,Joey,Tribbiani,friends,32,pizza@gmail.com,free,src\\DefaultProfilPhoto.jpg
+
+ahmet,kerim,cebeci,ahmet,39,asd@gmail.com,hobbyist,src\\DefaultProfilPhoto.jpg

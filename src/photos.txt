@@ -1,0 +1,11 @@
+admin,src\132photos\fleabag_one.jpg,open,first post,src\132photos\fleabag_two.jpg,private,admin bum,src\132photos\fleabag_three.jpg,open,wheres priest,C:\Users\icebe\OneDrive\Masaüstü\132photos\jordan_2.jpg,private,jordan,C:\Users\icebe\OneDrive\Masaüstü\132photos\messi_one.jpg,open,mesi,C:\Users\icebe\OneDrive\Masaüstü\132photos\moriarty_one.jpg,open,sherlock,C:\Users\icebe\OneDrive\Masaüstü\132photos\ragnar_two.jpg,private,gozde sultan,C:\Users\icebe\OneDrive\Masaüstü\132photos\messi_one.jpg,private,mesi
+kingragnar,src\132photos\ragnar_one.jpg,open,ragnar first post,src\132photos\ragnar_two.jpg,private,ragnar second post,src\132photos\ragnar_three.jpg,open,ragnar third post
+amir06,src\132photos\amir_one.jpg,open,amir first post,src\132photos\amir_two.jpg,private,amir second post la,src\132photos\amir_three.jpg,open,amir third post la
+mrrobot,src\132photos\mrrobot_one.jpg,open,hello friend,src\132photos\mrrobot_two.jpg,private,mr robot second post,src\132photos\mrrobot_three.jpg,open,mr robot third post,C:\Users\icebe\OneDrive\Belgeler\edited2.jpg,private,allah yok
+bestboss,src\132photos\office_one.jpg,open,dunder first post,src\132photos\office_two.jpg,private,office second post,src\132photos\office_three.jpg,open,jim is cool
+sgoodman,src\132photos\saul_one.jpg,open,lawyer up!,src\132photos\saul_two.jpg,private,saul second post,src\132photos\saul_three.jpg,open,saul gooooodman
+lordsnow,src\132photos\snow_one.jpg,open,cold days,src\132photos\snow_two.jpg,private,jon second post,src\132photos\snow_three.jpg,open,I know nothing
+mdgreg,src\132photos\house_one.jpg,open,lol,src\132photos\house_two.jpg,private,house second post,src\132photos\house_three.jpg,open,nice jeans
+moriarty,src\132photos\moriarty_one.jpg,open,guess whos back,src\132photos\moriarty_two.jpg,private,hi,src\132photos\moriarty_three.jpg,open,sherloooock
+joeytrib,src\132photos\joey_one.jpg,open,joey first post,src\132photos\joey_two.jpg,private,joey second post,src\132photos\joey_three.jpg,open,joey third post
+ahmet
